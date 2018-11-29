@@ -6,6 +6,9 @@ index:
     category: 'Category'
     uncategorized: 'uncategorized'
     tag: 'Tag'
+    geekgame: 'GeekGame'
+    gamesimade: 'Games I Made'
+    livecoding: 'LiveCoding'
 nav:
     current_page:
         other: 'Page %d '
